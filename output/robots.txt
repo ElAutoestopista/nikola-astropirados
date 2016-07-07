@@ -1,0 +1,4 @@
+Sitemap: https://astropirados.space/sitemapindex.xml
+
+User-Agent: *
+Host: astropirados.space
