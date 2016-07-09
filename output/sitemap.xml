@@ -7,22 +7,30 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://astropirados.space/</loc>
-  <lastmod>2016-07-07T22:44:00Z</lastmod>
+  <lastmod>2016-07-08T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://astropirados.space/2016/</loc>
+  <lastmod>2016-07-08T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://astropirados.space/archive.html</loc>
-  <lastmod>2016-07-08T23:40:00Z</lastmod>
+  <lastmod>2016-07-08T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://astropirados.space/categories/</loc>
-  <lastmod>2016-07-07T22:44:00Z</lastmod>
+  <lastmod>2016-07-08T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://astropirados.space/galleries/</loc>
-  <lastmod>2016-07-07T22:44:00Z</lastmod>
+  <lastmod>2016-07-08T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://astropirados.space/listings/</loc>
-  <lastmod>2016-07-07T22:44:00Z</lastmod>
+  <lastmod>2016-07-08T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://astropirados.space/posts/en-construccion/</loc>
+  <lastmod>2016-07-08T23:57:00Z</lastmod>
  </url>
 </urlset>
