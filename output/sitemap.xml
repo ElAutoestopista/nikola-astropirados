@@ -15,11 +15,19 @@
  </url>
  <url>
   <loc>https://astropirados.space/archive.html</loc>
-  <lastmod>2016-07-08T23:57:00Z</lastmod>
+  <lastmod>2016-08-15T15:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://astropirados.space/categories/</loc>
-  <lastmod>2016-07-08T23:44:00Z</lastmod>
+  <lastmod>2016-08-15T15:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://astropirados.space/categories/observacion/</loc>
+  <lastmod>2016-08-15T15:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://astropirados.space/categories/perseidas/</loc>
+  <lastmod>2016-08-15T15:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://astropirados.space/galleries/</loc>
@@ -32,5 +40,9 @@
  <url>
   <loc>https://astropirados.space/posts/en-construccion/</loc>
   <lastmod>2016-07-08T23:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://astropirados.space/posts/perseidas-2016/</loc>
+  <lastmod>2016-08-15T15:42:00Z</lastmod>
  </url>
 </urlset>
