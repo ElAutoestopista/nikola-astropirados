@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'Anton';
     src: url('/assets/fonts/anton.woff2') format('woff2'),
+         url('/assets/fonts/anton.woff') format('woff'),
+         url('/assets/fonts/anton.ttf') format('ttf'),
          font-weight: normal;
          font-style: normal;
      }
@@ -8,6 +10,8 @@
 @font-face {
     font-family: 'Allerta Stencil';
     src: url('/assets/fonts/allerta-stencil.woff2') format('woff2'),
+         url('/assets/fonts/allerta-stencil.woff') format('woff'),
+         url('/assets/fonts/allerta-stencil.ttf') format('ttf'),
          font-weight: normal;
          font-style: normal;
 }
