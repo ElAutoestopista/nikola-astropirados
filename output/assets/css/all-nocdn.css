@@ -7205,7 +7205,7 @@ table.codetable { width: 100%;} td.linenos {text-align: right; width: 4em;}
         #cboxClose:hover{background-position:bottom center;}
 
 @font-face {
-    font-family: 'Anton';
+    font-family: Anton;
     src: url('/assets/fonts/anton.woff2') format('woff2'),
          url('/assets/fonts/anton.woff') format('woff'),
          url('/assets/fonts/anton.ttf') format('ttf'),
@@ -7214,7 +7214,7 @@ table.codetable { width: 100%;} td.linenos {text-align: right; width: 4em;}
      }
 
 @font-face {
-    font-family: 'Allerta Stencil';
+    font-family: Allerta Stencil;
     src: url('/assets/fonts/allerta-stencil.woff2') format('woff2'),
          url('/assets/fonts/allerta-stencil.woff') format('woff'),
          url('/assets/fonts/allerta-stencil.ttf') format('ttf'),
