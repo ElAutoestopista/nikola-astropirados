@@ -80,6 +80,14 @@ ${base.late_load_js()}
     fancydates(${date_fanciness}, ${js_date_format});
     </script>
     <!-- end fancy dates -->
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+	<script>
+	  WebFont.load({
+		google: {
+		  families: ['Anton', 'Allerta Stencil']
+		}
+	  });
+	</script>
     <%block name="extra_js"></%block>
     % if annotations and post and not post.meta('noannotations'):
         ${notes.code()}
