@@ -448,8 +448,8 @@ table.codetable { width: 100%;} td.linenos {text-align: right; width: 4em;}
     src: url('/assets/fonts/anton.woff2') format('woff2'),
          url('/assets/fonts/anton.woff') format('woff'),
          url('/assets/fonts/anton.ttf') format('ttf'),
-         font-weight: normal;
-         font-style: normal;
+         /* font-weight: normal;
+         font-style: normal; */
      }
 
 @font-face {
